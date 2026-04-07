@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1779095c-5ff5-4bf3-a1b7-0ba021e59361" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estrutura-de-Dados2/src/HashList/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estrutura-de-Dados2/src/HashList/TabelaHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estrutura-de-Dados2/src/HashList/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estrutura_de_Dados2.iml" afterDir="false" />
-    </list>
+    <list default="true" id="1779095c-5ff5-4bf3-a1b7-0ba021e59361" name="Changes" comment="feat: lista de Hash" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Estrutura-de-Dados2" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -42,6 +33,9 @@
     "accountId": "45ae2739-af9a-4eef-bde6-a0d24e9fea1a"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -87,6 +81,35 @@
       <option name="presentableId" value="Default" />
       <updated>1775559629207</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: lista de Hash">
+      <option name="closed" value="true" />
+      <created>1775562545263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775562545263</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: lista de Hash">
+      <option name="closed" value="true" />
+      <created>1775562565578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775562565578</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: lista de Hash">
+      <option name="closed" value="true" />
+      <created>1775562599816</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775562599816</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: lista de Hash" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: lista de Hash" />
   </component>
 </project>
