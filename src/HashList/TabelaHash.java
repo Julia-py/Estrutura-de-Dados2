@@ -8,7 +8,7 @@ public class TabelaHash {
     private int tamanho;
 
 
-    public TabelaHash (int tamnaho){
+    public TabelaHash (int tamanho){
         this.tamanho = tamanho;
         tabela = new ArrayList[tamanho];
 
