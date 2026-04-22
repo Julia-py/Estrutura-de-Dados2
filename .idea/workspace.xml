@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1779095c-5ff5-4bf3-a1b7-0ba021e59361" name="Changes" comment="feat: lista de Hash">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashList/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashList/TabelaHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashNEncadeada/ListHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashNEncadeada/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Estrutura-de-Dados2/src/HashNEncadeada/ListHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura-de-Dados2/src/HashNEncadeada/ListHash.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Estrutura-de-Dados2/src/HashNEncadeada/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura-de-Dados2/src/HashNEncadeada/main.java" afterDir="false" />
